@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+#aaa {
+  background-color: rgb(83, 241, 63);
+}
+button {
+  background-color: lightyellow;
+  border-color: lightyellow;
+}
